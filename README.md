@@ -1,4 +1,4 @@
-website
-=======
+MDwiki
+======
 
-Wilmington University Cyber Club website.
+See http://www.mdwiki.info/ for more documentation and details.
